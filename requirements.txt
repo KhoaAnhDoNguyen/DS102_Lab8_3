@@ -1,5 +1,1 @@
-streamlit
-pickle
-PIL
-Image
 scikit-learn
